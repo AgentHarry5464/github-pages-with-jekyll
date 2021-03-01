@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to the site with Jekyll....
 
-I'm glad you are here. I plan to talk about ...
+This page is the result of a tutorial's creation. Bleh.
+
+Welcome, enjoy your stay.
